@@ -121,6 +121,18 @@ Perfect for quick social media posts, YouTube thumbnails, product photos, or any
 
 ***
 
+## **[ClearCrowds](https://www.clearcrowds.com)**
+
+AI photo cleanup workspace for removing unwanted people, objects, text, stickers, glare, and other distractions from everyday photos.
+
+ClearCrowds is built around practical cleanup tasks rather than full design-suite complexity. Upload a photo, pick a preset, or describe the edit you want, then review the generated result before downloading. This makes it useful for travel photos, ecommerce shots, rental listings, social posts, and quick mobile edits where you need the scene to look natural after removing a distraction.
+
+The tool includes focused presets for removing crowds, objects, text, glasses, glare, and background clutter. It also supports follow-up edits, so you can continue refining the same image without starting over. For identity-sensitive edits, ClearCrowds is best used with small selections and manual review, especially when cleaning faces, stickers, or portrait details.
+
+The web editor works in the browser, with iOS and Android app entry points for users who prefer mobile cleanup. It fits users who want a fast, guided AI cleanup flow without learning Photoshop or managing a large creative suite.
+
+***
+
 ## **[Canva Background Remover](https://www.canva.com/features/background-remover/)**
 
 One-click background removal integrated into the world's most popular design platform.
